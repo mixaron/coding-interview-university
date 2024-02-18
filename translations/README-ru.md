@@ -231,7 +231,7 @@ Google не возьмёт тебя на работу.
 
 - [ ] Для студентов - [Google Careers: Руководство по развитию в технологиях](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] Как работает поиск:
-    - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [X] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
     - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
