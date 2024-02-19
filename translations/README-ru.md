@@ -230,15 +230,15 @@ Google не возьмёт тебя на работу.
 ## О Google
 
 - [ ] Для студентов - [Google Careers: Руководство по развитию в технологиях](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] Как работает поиск:
+- [X] Как работает поиск:
     - [X] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [X] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [X] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
     - [X] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
     - [X] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] Серии:
-    - [ ] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-    - [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
+    - [X] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+    - [X] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
     - [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
     - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [Книга: Как работает Google](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
@@ -256,15 +256,15 @@ Google не возьмёт тебя на работу.
 
 ## Процесс собеседования & Основное в подготовке к интервью
 
-- [ ] Видео:
-    - [ ] [Как работать в Google: Подготовка к собеседованию на позицию инженера (видео)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
-    - [ ] [Как работать в Google: Пример кодирования/Собеседование инженера (видео)](https://www.youtube.com/watch?v=XKu_SEDAykw)
+- [X] Видео:
+    - [X] [Как работать в Google: Подготовка к собеседованию на позицию инженера (видео)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+    - [X] [Как работать в Google: Пример кодирования/Собеседование инженера (видео)](https://www.youtube.com/watch?v=XKu_SEDAykw)
     - [ ] [Как работать в Google - Подготовка кандидатов (видео)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-    - [ ] [Советы для технического собеседования от рекрутеров из Google (видео)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+    - [X] [Советы для технического собеседования от рекрутеров из Google (видео)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
     - [ ] [Как работать в Google: Подготовка технического резюме (видео)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 - [ ] Статьи:
-    - [ ] [Стать гуглером за три шага](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
+    - [X] [Стать гуглером за три шага](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
     - [ ] [Получить работу Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - все что он упоминает из того что вы должны знать перечисленно ниже
     - [ ] (сильно устаревшее)[Как получить работу в Google, Вопросы на собеседовании, Процесс найма](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
