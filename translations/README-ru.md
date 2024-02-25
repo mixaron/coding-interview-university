@@ -265,10 +265,10 @@ Google не возьмёт тебя на работу.
 
 - [ ] Статьи:
     - [X] [Стать гуглером за три шага](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
-    - [ ] [Получить работу Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+    - [X] [Получить работу Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - все что он упоминает из того что вы должны знать перечисленно ниже
     - [ ] (сильно устаревшее)[Как получить работу в Google, Вопросы на собеседовании, Процесс найма](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
-    - [ ] [Вопросы с собеседования по телефону](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+    - [X] [Вопросы с собеседования по телефону](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [ ] Подготовительные курсы:
     - [ ] [Собеседование инженера-программиста (платный курс)](https://www.udemy.com/software-engineer-interview-unleashed):
@@ -284,7 +284,7 @@ Google не возьмёт тебя на работу.
         - [ ] [Прохождения собеседования по программированию с Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
     - [ ] Как получить работу в большой четверке:
         - [ ] ['Как получить работу в большой четверке - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-    - [ ] [Ошибки на собеседованиях в Google](http://alexbowe.com/failing-at-google-interviews/)
+    - [X] [Ошибки на собеседованиях в Google](http://alexbowe.com/failing-at-google-interviews/)
 
 ## Выберите один язык для собеседования
 
